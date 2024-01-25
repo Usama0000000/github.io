@@ -1,0 +1,21 @@
+﻿{
+  "WatchFace_Info": {
+    "DeviceName": "Active",
+    "WatchFaceId": 8155514,
+    "Preview": "0001"
+  },
+  "ScreenNormal": {
+    "Background": {
+      "visible": true,
+      "BackgroundColor": {
+        "show_level": "",
+        "x": 0,
+        "y": 0,
+        "w": 390,
+        "h": 450,
+        "color": "0xFF000000"
+      }
+    }
+  },
+  "ScreenAOD": {}
+}
